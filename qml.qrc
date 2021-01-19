@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BuenosAires/BuenosAires-Black.otf</file>
+        <file>BuenosAires/BuenosAires-BlackItalic.otf</file>
+        <file>BuenosAires/BuenosAires-Bold.otf</file>
+        <file>BuenosAires/BuenosAires-BoldItalic.otf</file>
+        <file>BuenosAires/BuenosAires-Book.otf</file>
+        <file>BuenosAires/BuenosAires-BookItalic.otf</file>
+        <file>BuenosAires/BuenosAires-Light.otf</file>
+        <file>BuenosAires/BuenosAires-LightItalic.otf</file>
+        <file>BuenosAires/BuenosAires-Regular.otf</file>
+        <file>BuenosAires/BuenosAires-RegularItalic.otf</file>
+        <file>BuenosAires/BuenosAires-SemiBold.otf</file>
+        <file>BuenosAires/BuenosAires-SemiBoldItalic.otf</file>
+        <file>BuenosAires/BuenosAires-Thin.otf</file>
+        <file>BuenosAires/BuenosAires-ThinItalic.otf</file>
+    </qresource>
+</RCC>
