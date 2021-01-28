@@ -19,11 +19,12 @@ int main(int argc, char *argv[])
         if (!obj && url == objUrl)
             QCoreApplication::exit(-1);
     }, Qt::QueuedConnection);
-    engine.load(url);
 
     // Expose the Message Board to QML
     MessageBoard mb;
     engine.rootContext()->setContextProperty("msgBoard", &mb);
+
+    engine.load(url);
 
     return app.exec();
 }
